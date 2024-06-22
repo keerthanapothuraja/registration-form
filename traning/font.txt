@@ -1,0 +1,17 @@
+font
+icons 
+display flex
+position -fixed
+    static:defult
+    relative:used to override
+    sticky:stick to its position (during scroll)
+    absolute:left or right
+margin
+ padding
+ max-widht
+ max height
+ linear gradient
+ transparency
+ opacity
+ box shadow
+ inspect
